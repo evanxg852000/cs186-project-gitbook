@@ -19,17 +19,15 @@ Once all of your files are prepared in your repo you can submit to Gradescope th
 
 ## Submitting via upload <a id="submitting-via-upload"></a>
 
-If your GitHub account has access to many repos, the Gradescope UI might time out while trying to load which repos you have available. If this is the case for you, you can submit your code directly using via upload. You can zip up your source code with `python3 zip.py --assignment proj2` and submit that directly to the autograder.
+If your GitHub account has access to many repos, the Gradescope UI might time out while trying to load which repos you have available. If this is the case for you, you can submit your code directly using `via upload`: zip your source code with `python3 zip.py --assignment proj2` and submit that directly to the autograder.
 
 ## Partners
 
-Only one partner has to submit, but please make sure to add the other partner to the Gradescope submission. Slip minutes will be calculated individually. For example, if partner A has 10 slip minutes remaining and partner B has 20 slip minutes remaining and they submit 20 minutes late, partner A will be subject to the late penalty (1/3 off partner A's score) while partner B will have 0 remaining slip minutes and no late penalty applied to partner B's score. If you wish to make individual submissions at separate times, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScdiUaMsn6U85pzY8vM8coh3iS_gnVxzLi6W3JWRGwnfXA6qA/viewform?usp=sf_link) so you aren't flagged for academic dishonesty.
+Only one partner has to submit, but please make sure to add the other partner to the Gradescope submission. Slip minutes will be calculated individually. For example, if partner A has 10 slip minutes remaining and partner B has 20 slip minutes remaining and they submit 20 minutes late, partner A will be subject to the late penalty (1/3 off partner A's score) while partner B will have 0 remaining slip minutes and no late penalty applied to partner B's score.
 
 ## Grade breakdown
 
-* 60% of your grade will be made up of tests released to you \(the tests that we provided in
-
-  `database.index.*`\).
+* 60% of your grade will be made up of tests released to you \(the tests that we provided in `database.index.*`\).
 
 * 40% of your grade will be made up of hidden, unreleased tests that we will run on your submission after the deadline.
 
